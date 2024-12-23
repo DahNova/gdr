@@ -1,0 +1,149 @@
+{
+  "capitolo5_metadata": {
+    "titolo": "La Scelta dei Nove Venti",
+    "struttura_narrativa": {
+      "tipo": "Integrazione/Decisione",
+      "momento_chiave": "Primo arrivo a Rifedal",
+      "significato": "Punto di svolta tra passato e futuro"
+    },
+    "rifedal": {
+      "natura": {
+        "fisica": "Ex villaggio minerario",
+        "spirituale": "Santuario religioso",
+        "strategica": "Avamposto montano isolato"
+      },
+      "struttura_sociale": {
+        "leadership": {
+          "saggio_Ross": {
+            "ruolo": ["guida spirituale", "leader politico"],
+            "poteri": ["magia aerea", "veggenza"],
+            "atteggiamento": {
+              "verso_thorstein": ["sospettoso", "distante"],
+              "significato": "Intuizione natura divina"
+            }
+          },
+          "Luke": {
+            "ruolo": "erede designato",
+            "carattere": ["arrogante", "ostile"],
+            "funzione_narrativa": "antagonista minore"
+          }
+        },
+        "guardie_tempesta": {
+          "funzione": ["protezione", "addestramento", "tradizione"],
+          "membri": {
+            "Philip": {
+              "background": "Derendiuth",
+              "ruolo": ["guardiano", "mentore"],
+              "evoluzione": "Figura paterna positiva"
+            },
+            "Meredy": {
+              "ruolo": ["guerriera", "madre"],
+              "significato": "Equilibrio forza/nurtura"
+            },
+            "Jon": {
+              "ruolo": "addestratore principale",
+              "specialità": "combattimento"
+            },
+            "Jacob": "guardia affidabile"
+          }
+        }
+      },
+      "dinamiche_potere": {
+        "religiose": {
+          "culto": "Nove Venti",
+          "focus": "Lord Justice",
+          "pratiche": ["orazioni", "profezie", "addestramento"]
+        },
+        "militari": {
+          "struttura": "Guardie della Tempesta",
+          "addestramento": ["combattimento", "disciplina", "devozione"]
+        },
+        "sociali": {
+          "gerarchie": ["religiose", "militari", "familiari"],
+          "tensioni": ["insider/outsider", "tradizione/cambiamento"]
+        }
+      }
+    },
+    "personaggi_chiave": {
+      "bambini": {
+        "ayli": {
+          "status": "prescelta divina",
+          "poteri": ["volo", "aria", "luce"],
+          "significato": "Parallelo divino con Thorstein",
+          "evoluzione": "Da misteriosa a alleata spirituale"
+        },
+        "andrea": {
+          "background": "Figlia di Philip e Meredy",
+          "caratteristiche": ["coraggiosa", "leale", "determinata"],
+          "evoluzione": "Da compagna a interesse romantico"
+        },
+        "peter": {
+          "origine": "regioni meridionali",
+          "caratteristiche": ["forte", "estroverso", "protettivo"],
+          "ruolo": "Migliore amico/alleato"
+        },
+        "marcus": {
+          "caratteristiche": ["timido", "fragile", "resiliente"],
+          "evoluzione": "Da outsider a parte del gruppo"
+        }
+      },
+      "adulti": {
+        "bjorn": {
+          "razza": "nano",
+          "ruolo": ["fabbro", "mentore"],
+          "segreti": ["conoscenza poteri Thorstein", "lealtà a Dubb"],
+          "evoluzione": "Da maestro riluttante a protettore"
+        },
+        "alfred_dubb": {
+          "status": "generale in semi-ritiro",
+          "comportamento": {
+            "apparente": ["protettivo", "interessato"],
+            "reale": ["evasivo", "nasconde verità"],
+            "motivazioni": "Rivelate nei capitoli successivi"
+          }
+        }
+      }
+    },
+    "elementi_mistici": {
+      "profezia": {
+        "tre_bambini": {
+          "figlio_dei": {
+            "identità": "Ayli (apparente)",
+            "poteri": ["volo", "luce", "aria"]
+          },
+          "figlio_magia": "identità sconosciuta",
+          "figlio_caos": "identità sconosciuta"
+        },
+        "implicazioni": {
+          "thorstein": "Vera natura non ancora rivelata",
+          "conflitto": "Futuro scontro predetto"
+        }
+      }
+    },
+    "temi_principali": {
+      "accettazione": {
+        "comunità": ["integrazione", "prove"],
+        "destino": ["scelte", "responsabilità"]
+      },
+      "identità": {
+        "personale": ["origini", "poteri"],
+        "sociale": ["ruolo", "appartenenza"]
+      },
+      "potere": {
+        "forme": ["divino", "marziale", "sociale"],
+        "responsabilità": ["protezione", "servizio"]
+      }
+    },
+    "connessioni_narrative": {
+      "precedenti": {
+        "profezia": "Notte dei fulmini",
+        "giganti": "Insegnamenti e protezione"
+      },
+      "future": {
+        "poteri": "Manifestazione Estate di Sangue",
+        "relazioni": ["romanzo con Andrea", "amicizia con Ayli"],
+        "conflitti": ["con Dubb", "con oscurità"]
+      }
+    }
+  }
+}

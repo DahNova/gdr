@@ -1,0 +1,153 @@
+{
+  "capitolo7_metadata": {
+    "titolo": "La vita altrui",
+    "struttura_temporale": {
+      "epoca": "Due anni dopo Estate di Sangue",
+      "età_thorstein": "11-12 anni",
+      "significato": "Maturazione e accettazione del destino"
+    },
+    "archi_narrativi": {
+      "personale": {
+        "thorstein": {
+          "evoluzione": {
+            "fisica": {
+              "aspetto": ["crescita", "maturazione"],
+              "poteri": {
+                "controllo": ["base", "in sviluppo"],
+                "manifestazioni": ["fulmini", "resistenza elementi"],
+                "limiti": ["controllo emotivo", "paura del danno"]
+              }
+            },
+            "emotiva": {
+              "relazioni": {
+                "andrea": {
+                  "natura": "romantica nascente",
+                  "momenti": ["quasi bacio", "preoccupazione reciproca"],
+                  "significato": "Prima esperienza d'amore"
+                },
+                "ayli": {
+                  "natura": ["spirituale", "divina"],
+                  "evoluzione": "Da amicizia a alleanza sacra"
+                },
+                "famiglia_hannes": {
+                  "sviluppo": ["gratitudine", "affetto", "appartenenza"],
+                  "significato": "Nuova famiglia surrogata"
+                }
+              },
+              "conflitti": {
+                "con_alfred": {
+                  "cause": ["menzogne", "tradimento", "ricerca padre"],
+                  "risoluzione": "Rottura definitiva",
+                  "conseguenze": "Indipendenza e crescita"
+                }
+              }
+            },
+            "spirituale": {
+              "accettazione_poteri": {
+                "catalizzatore": "Verkilnir",
+                "processo": ["comprensione", "connessione emotiva"],
+                "risultato": "Controllo attraverso empatia"
+              }
+            }
+          }
+        }
+      },
+      "profetico": {
+        "visione_ayli": {
+          "contenuto": {
+            "scenario": "Flame Forge",
+            "eventi": ["nascita bambino orco", "manifestazione potere oscuro"],
+            "significato": "Arrivo terzo bambino profezia"
+          },
+          "implicazioni": {
+            "immediate": ["minaccia imminente", "necessità preparazione"],
+            "future": ["conflitto inevitabile", "scelte decisive"]
+          }
+        }
+      }
+    },
+    "elementi_divini": {
+      "verkilnir": {
+        "natura": {
+          "fisica": ["aquila due teste", "dimensioni colossali"],
+          "spirituale": ["messaggera divina", "guida spirituale"]
+        },
+        "ruolo": {
+          "narrativo": ["catalizzatore", "mentore"],
+          "simbolico": ["connessione Lord Justice", "conferma identità divina"]
+        },
+        "insegnamenti": {
+          "tecnici": ["controllo fulmine", "presa saetta"],
+          "spirituali": ["potere attraverso emozioni", "forza per altri"]
+        }
+      }
+    },
+    "sviluppi_poteri": {
+      "manifestazioni": {
+        "controllate": ["fulmini base", "scariche elettriche"],
+        "non_controllate": ["capelli ritti", "reazioni emotive"]
+      },
+      "progressi": {
+        "tecnici": {
+          "presa_fulmine": {
+            "difficoltà": "Controllo energia",
+            "superamento": "Connessione emotiva"
+          }
+        },
+        "spirituali": {
+          "comprensione": "Potere attraverso amore e protezione",
+          "accettazione": "Destino come protettore"
+        }
+      }
+    },
+    "temi_principali": {
+      "identità": {
+        "divina": {
+          "accettazione": ["poteri", "responsabilità"],
+          "manifestazione": ["controllo", "scopo"]
+        },
+        "personale": {
+          "crescita": ["indipendenza", "maturità"],
+          "relazioni": ["amore", "amicizia", "famiglia"]
+        }
+      },
+      "destino": {
+        "scelta": ["accettazione", "direzione"],
+        "responsabilità": ["protezione", "guida"]
+      },
+      "potere": {
+        "natura": ["divina", "emotiva", "protettiva"],
+        "uso": ["aiuto", "difesa", "guida"]
+      }
+    },
+    "elementi_simbolici": {
+      "tatuaggio": {
+        "significato": ["marchio permanente", "scelta consapevole"],
+        "simbolismo": ["accettazione destino", "impegno protezione"]
+      },
+      "tempesta": {
+        "ruolo": ["manifestazione divina", "catalizzatore", "rivelazione"],
+        "significato": ["potere", "cambiamento", "accettazione"]
+      }
+    },
+    "anticipazioni": {
+      "minacce": {
+        "oscurità": {
+          "forma": "Bambino orco soprannaturale",
+          "natura": "Potere Piano Oscuro",
+          "imminenza": "Prossima"
+        }
+      },
+      "sviluppi": {
+        "thorstein": {
+          "poteri": ["crescita", "controllo", "scopo"],
+          "ruolo": ["protettore", "guerriero", "guida"]
+        },
+        "conflitti": {
+          "esterni": ["oscurità", "caos"],
+          "interni": ["controllo", "responsabilità"]
+        }
+      }
+    }
+  }
+}

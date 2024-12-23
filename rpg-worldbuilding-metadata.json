@@ -1,0 +1,243 @@
+{
+  "sistema_divino": {
+    "Nove_Venti": {
+      "Lord_Justice": {
+        "dominio": ["giustizia", "fulmini", "equilibrio", "verità"],
+        "simboli": ["maglio", "bilancia", "tempesta"],
+        "poteri_concessi": {
+          "paladini": ["giudizio divino", "protezione", "fulmini"],
+          "figli": ["controllo tempeste", "resistenza elementi", "fulmini"]
+        },
+        "creature_sacre": {
+          "verkilnir": {
+            "tipo": "aquila due teste",
+            "poteri": ["volo", "tempesta", "profezia"]
+          }
+        }
+      },
+      "Lord_Wrath": {
+        "dominio": ["ira", "battaglia", "forza"],
+        "affiliazione": "Orchi",
+        "poteri_concessi": ["furia battaglia", "forza sovrannaturale"]
+      },
+      "Lord_Sun": {
+        "dominio": ["luce", "vita", "calore"],
+        "affiliazione": "Imperiali"
+      },
+      "Lady_Moon": {
+        "dominio": ["magia", "mistero", "conoscenza"],
+        "affiliazione": "Elfi",
+        "poteri_concessi": ["magia arcana", "illuminazione"]
+      },
+      "Lady_Earth": {
+        "dominio": ["terra", "natura", "forza"],
+        "poteri_concessi": ["forza", "resistenza", "connessione terra"]
+      },
+      "Lady_Shade": {
+        "dominio": ["ombra", "morte", "mistero"]
+      },
+      "altri": ["Lady Sea", "Lord Torment", "Lady Beauty"]
+    }
+  },
+  "razze_giocabili": {
+    "umani": {
+      "imperiali": {
+        "tratti": ["versatili", "adattabili"],
+        "affiliazione": "Lord Sun",
+        "varianti": {
+          "derendiuth": "affinità grifoni",
+          "terre_lontane": "guerrieri esperti"
+        }
+      },
+      "semi_divini": {
+        "origini": ["discendenza diretta dei", "benedizione divina"],
+        "poteri": ["basati sul genitore divino", "manifestazione graduale"],
+        "esempi": ["controllo elementi", "resistenza sovrannaturale"]
+      }
+    },
+    "elfi": {
+      "alti": {
+        "tratti": ["longevità", "affinità magica"],
+        "affiliazione": "Lady Moon",
+        "specialità": ["magia arcana", "artigianato magico"]
+      },
+      "oscuri": {
+        "origini": "Benedizione di Lath",
+        "tratti": ["pelle nera", "capelli bianchi"],
+        "affiliazione": "Lady Shade"
+      },
+      "mezzelfi": {
+        "tipo": "Elfhimar",
+        "caratteristiche": ["vita mortale", "poteri elfici"]
+      }
+    },
+    "orchi": {
+      "tratti": ["forza", "resistenza"],
+      "affiliazione": "Lord Wrath",
+      "varianti": {
+        "rossi": "più forti e nobili",
+        "grigi": "più astuti e magici"
+      }
+    },
+    "nani": {
+      "tratti": ["resistenza", "artigianato"],
+      "specialità": ["forgiatura", "ingegneria"],
+      "tecnologie": ["Machina", "Golem"]
+    }
+  },
+  "classi_base": {
+    "combattenti": {
+      "cavaliere": {
+        "focus": ["combattimento", "onore", "protezione"],
+        "varianti": {
+          "cavaliere_alato": {
+            "requisiti": "nobiltà/addestramento speciale",
+            "mount": "grifone"
+          },
+          "guardia_tempesta": {
+            "focus": ["protezione", "disciplina"],
+            "arma": "alabarda"
+          }
+        }
+      },
+      "guerriero": {
+        "focus": ["versatilità combattimento", "adattabilità"],
+        "stili": ["due armi", "arma e scudo", "arma due mani"]
+      }
+    },
+    "incantatori": {
+      "mago": {
+        "origine_potere": ["studio", "innato"],
+        "scuole": {
+          "elementale": ["fuoco", "ghiaccio", "fulmine"],
+          "aerea": ["volo", "controllo venti"]
+        }
+      },
+      "sacerdote": {
+        "origine_potere": "divina",
+        "domini": "basati sul dio venerato"
+      }
+    },
+    "specialisti": {
+      "fabbro": {
+        "focus": ["creazione", "riparazione"],
+        "specialità": {
+          "nanico": ["armi magiche", "armature potenziate"],
+          "normale": "equipaggiamento standard"
+        }
+      }
+    }
+  },
+  "poteri_e_magia": {
+    "tipi_magia": {
+      "divina": {
+        "fonte": "dei",
+        "manifestazioni": ["benedizioni", "miracoli", "poteri elementali"]
+      },
+      "arcana": {
+        "fonte": ["studio", "innata"],
+        "manifestazioni": ["incantesimi", "rituali"]
+      },
+      "naturale": {
+        "fonte": ["terra", "elementi"],
+        "manifestazioni": ["controllo elementi", "comunione natura"]
+      }
+    },
+    "elementi": {
+      "fulmine": {
+        "utilizzi": ["attacco", "energia", "purificazione"],
+        "fonte": "Lord Justice"
+      },
+      "aria": {
+        "utilizzi": ["volo", "controllo venti"],
+        "fonte": ["Lord Torment", "elementale"]
+      },
+      "altri": ["fuoco", "terra", "acqua", "luce", "ombra"]
+    }
+  },
+  "creature_notevoli": {
+    "giganti": {
+      "giganti_montagne": {
+        "poteri": ["forza", "terra"],
+        "ruolo": "guardiani territorio"
+      },
+      "giganti_tempeste": {
+        "poteri": ["fulmini", "tempeste"],
+        "ruolo": "manifestazione divina"
+      },
+      "giganti_nuvole": {
+        "poteri": ["volo", "controllo mente"],
+        "ruolo": "guardiani cielo"
+      }
+    },
+    "bestie_magiche": {
+      "grifoni": {
+        "tipo": "ibrido aquila/leone",
+        "uso": "cavalcature nobili"
+      },
+      "creature_sacre": {
+        "verkilnir": "aquila sacra di Justice",
+        "altri": "specifici per ogni dio"
+      }
+    },
+    "mostri": {
+      "gnoll": {
+        "tipo": "umanoidi iene",
+        "habitat": "montagne",
+        "pericolo": "medio"
+      }
+    }
+  },
+  "luoghi_importanti": {
+    "regioni": {
+      "Terre_Imperiali": {
+        "capitale": "Aziriuth",
+        "cultura": ["cavalleresca", "devota al Sole"]
+      },
+      "Terre_Orchesche": {
+        "capitale": "Flame Forge",
+        "cultura": ["guerriera", "tribale"]
+      },
+      "Terre_Nebbiose": {
+        "abitanti": "elfi",
+        "cultura": "magica"
+      }
+    },
+    "città_notevoli": {
+      "Derendiuth": {
+        "tipo": "fortezza imperiale",
+        "specialità": "addestramento grifoni"
+      },
+      "Rifedal": {
+        "tipo": "santuario montano",
+        "focus": ["spirituale", "addestramento"]
+      }
+    }
+  },
+  "regole_suggerite": {
+    "combattimento": {
+      "stili": {
+        "due_armi": "velocità e versatilità",
+        "arma_scudo": "difesa e controllo",
+        "arma_due_mani": "potenza e impatto"
+      }
+    },
+    "magia": {
+      "fonte_potere": {
+        "divina": "richiede devozione e allineamento",
+        "arcana": "richiede studio o talento innato",
+        "naturale": "richiede connessione elementi"
+      }
+    },
+    "progressione": {
+      "poteri_divini": {
+        "manifestazione": "graduale con livelli",
+        "controllo": "basato su saggezza/carisma"
+      },
+      "abilità_marziali": {
+        "apprendimento": "attraverso addestramento",
+        "maestria": "specializzazione stile"
+      }
+    }
+  }
+}

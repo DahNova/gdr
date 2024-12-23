@@ -1,0 +1,108 @@
+{
+  "capitolo1_metadata": {
+    "titolo": "Il Cielo Sotto la Pioggia",
+    "tipo_narrativo": "Prologo/Flash-forward",
+    "struttura_temporale": {
+      "inquadramento": "Flash-forward rispetto alla narrativa principale",
+      "momento_giornata": "Durante una tempesta",
+      "significato_narrativo": "Anticipa sviluppi futuri del protagonista"
+    },
+    "ambientazione": {
+      "principale": "Altura con tomba della madre",
+      "dettagli_ambientali": {
+        "atmosfera": ["tempestoso", "piovoso", "cupo"],
+        "elementi_scenici": [
+          "totem commemorativo",
+          "pendaglio d'aquila",
+          "dirupo con massi appuntiti"
+        ]
+      },
+      "simbolismo_location": {
+        "altura": ["elevazione spirituale", "vicinanza agli dei"],
+        "tomba": ["connessione col passato", "legame materno"],
+        "tempesta": ["manifestazione divina", "potere paterno"]
+      }
+    },
+    "thorstein": {
+      "stato_attuale": {
+        "età": "Giovane adulto",
+        "equipaggiamento": {
+          "armatura": {
+            "tipo": "scagliata",
+            "condizioni": "ammaccata",
+            "simbolismo": "segni delle battaglie passate"
+          },
+          "armi": {
+            "martello": {
+              "origine": "ereditato",
+              "dettagli": "incisioni decorative",
+              "significato": "connessione con figura paterna"
+            },
+            "punta_di_lancia": {
+              "materiale": "ferro",
+              "donatore": "Ayli",
+              "simbolismo": "legame con il presente/futuro"
+            }
+          }
+        },
+        "evoluzione_poteri": {
+          "manifestati": ["controllo fulmini", "resistenza elementi"],
+          "connessione_divina": "Evidente attraverso la tempesta"
+        }
+      }
+    },
+    "elementi_profetici": {
+      "verkilnir": {
+        "apparizione": {
+          "circostanze": "Durante la tempesta",
+          "significato": "Benedizione/guida divina"
+        },
+        "ruolo": ["messaggera divina", "conferma identità Thorstein"]
+      },
+      "simboli_ricorrenti": {
+        "aquila": ["guida spirituale", "connessione divina"],
+        "tempesta": ["potere paterno", "eredità divina"],
+        "pioggia": ["purificazione", "rinnovamento"]
+      }
+    },
+    "tematiche_principali": {
+      "identità_divina": {
+        "indizi": [
+          "controllo tempesta",
+          "apparizione Verkilnir",
+          "resistenza elementi"
+        ]
+      },
+      "vendetta_giustizia": {
+        "motivazioni": "Non ancora rivelate nel prologo",
+        "natura": "Personale e divina"
+      },
+      "eredità": {
+        "materna": "Rappresentata dalla tomba e dal totem",
+        "paterna": "Manifestata attraverso poteri e tempesta"
+      }
+    },
+    "connessioni_narrative": {
+      "passato": {
+        "esplicite": ["morte madre", "addestramento monastero"],
+        "implicite": ["origini divine", "scoperta poteri"]
+      },
+      "futuro": {
+        "anticipazioni": [
+          "missione vendicativa",
+          "accettazione destino divino",
+          "confronto imminente"
+        ]
+      }
+    },
+    "elementi_stilistici": {
+      "tempo_narrativo": "Presente drammatico",
+      "punto_vista": "Terza persona focalizzata",
+      "tecniche": [
+        "descrizioni atmosferiche dettagliate",
+        "simbolismo religioso",
+        "paralleli metaforici natura/emotività"
+      ]
+    }
+  }
+}

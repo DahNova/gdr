@@ -1,0 +1,76 @@
+{
+  "cronologia_capitoli": {
+    "capitolo1": {
+      "titolo": "Il Cielo Sotto la Pioggia",
+      "ambientazione_temporale": "Flash-forward - Thorstein adulto",
+      "ambientazione_spaziale": "Altura con tomba della madre",
+      "posizione_narrativa": "Prologo che anticipa eventi futuri"
+    },
+    "capitolo2": {
+      "titolo": "L'Alba di una Leggenda",
+      "ambientazione_temporale": {
+        "inizio": "Notte della tempesta di fulmini (nascita Thorstein)",
+        "fine": "5 anni dopo",
+        "era": "Post-draghi"
+      },
+      "ambientazione_spaziale": "Derendiuth",
+      "posizione_narrativa": "Background e origini"
+    },
+    "capitolo3": {
+      "titolo": "Rifedal",
+      "ambientazione_temporale": "5 anni dopo la nascita di Thorstein",
+      "ambientazione_spaziale": ["Derendiuth", "Rifedal"],
+      "struttura": {
+        "parte1": "Storia degli orchi (libro)",
+        "parte2": "Morte di Cassandra e viaggio verso Rifedal"
+      }
+    },
+    "capitolo4": {
+      "titolo": "Le Montagne dei Giganti",
+      "ambientazione_temporale": "Primi giorni dopo la partenza da Derendiuth",
+      "ambientazione_spaziale": "Caverna dei Giganti nelle Montagne",
+      "struttura": "Incontro con i Giganti e rivelazioni sul destino"
+    },
+    "capitolo5": {
+      "titolo": "La Scelta dei Nove Venti",
+      "ambientazione_temporale": "Arrivo a Rifedal",
+      "ambientazione_spaziale": "Rifedal",
+      "struttura": "Integrazione nella comunità e decisioni iniziali"
+    },
+    "capitolo6": {
+      "titolo": "Estate di Sangue",
+      "ambientazione_temporale": {
+        "anno": "869",
+        "stagione": "Fine primavera",
+        "collocazione": "2 anni dopo l'arrivo a Rifedal"
+      },
+      "ambientazione_spaziale": "Rifedal e montagne circostanti"
+    },
+    "capitolo7": {
+      "titolo": "La vita altrui",
+      "ambientazione_temporale": {
+        "epoca": "Due anni dopo l'Estate di Sangue",
+        "età_Thorstein": "Circa 11-12 anni"
+      },
+      "ambientazione_spaziale": "Rifedal",
+      "struttura": "Giorno cruciale di rivelazioni e scelte"
+    }
+  },
+  "note_temporali": {
+    "linea_temporale_principale": [
+      "Nascita durante la tempesta",
+      "Prime manifestazioni poteri (5 anni)",
+      "Morte di Cassandra e partenza",
+      "Periodo con i Giganti",
+      "Arrivo a Rifedal",
+      "Estate di Sangue (2 anni dopo)",
+      "Eventi attuali (4 anni dopo l'arrivo)"
+    ],
+    "età_thorstein": {
+      "nascita": 0,
+      "morte_madre": 5,
+      "estate_sangue": 9,
+      "eventi_attuali": 11
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "capitolo6_metadata": {
+    "titolo": "Estate di Sangue",
+    "struttura_temporale": {
+      "epoca": "869",
+      "stagione": "Fine primavera",
+      "momento": "Due anni dopo arrivo a Rifedal",
+      "significato": "Punto di svolta nei poteri di Thorstein"
+    },
+    "evento_centrale": {
+      "caccia_gnoll": {
+        "preparazione": {
+          "partecipanti": ["Alfred", "Bjorn", "Thorstein"],
+          "ruoli": {
+            "alfred": ["leader", "stratega", "combattente"],
+            "bjorn": ["supporto", "combattente", "protettore"],
+            "thorstein": ["osservatore", "apprendista", "catalizzatore"]
+          }
+        },
+        "svolgimento": {
+          "fasi": {
+            "pianificazione": {
+              "strategia": "Attacco frontale",
+              "posizionamento": "Thorstein tenuto al sicuro"
+            },
+            "combattimento": {
+              "alfred": {
+                "stile": ["arco", "spada e martello"],
+                "efficacia": "Letale e preciso"
+              },
+              "bjorn": {
+                "stile": ["balestra", "ascia"],
+                "ruolo": "Supporto e protezione"
+              }
+            },
+            "crisi": {
+              "attacco_sorpresa": "Gnoll nascosto",
+              "thorstein": "In pericolo mortale"
+            }
+          }
+        },
+        "climax": {
+          "manifestazione_poteri": {
+            "circostanze": "Momento di pericolo estremo",
+            "natura": ["elettrica", "istintiva", "potente"],
+            "effetti": ["gnoll carbonizzato", "distanza notevole"],
+            "reazioni": {
+              "alfred": ["shock", "riconoscimento", "occultamento"],
+              "bjorn": ["complicità", "protezione", "menzogna"],
+              "thorstein": ["confusione", "dubbio", "sospetto"]
+            }
+          }
+        }
+      }
+    },
+    "sviluppo_thorstein": {
+      "fisico": {
+        "crescita": ["altezza", "forza", "resistenza"],
+        "abilità_manifestate": {
+          "combattimento": ["addestramento base", "riflessi"],
+          "poteri": {
+            "attivi": ["fulmini", "elettricità"],
+            "passivi": ["resistenza elementi", "forza aumentata"]
+          }
+        }
+      },
+      "psicologico": {
+        "consapevolezza": {
+          "poteri": ["scoperta", "dubbio", "potenziale"],
+          "identità": ["sospetti", "domande", "ricerca"]
+        },
+        "relazioni": {
+          "alfred": {
+            "prima": ["fiducia", "ammirazione", "dipendenza"],
+            "dopo": ["dubbio", "sospetto", "delusione"]
+          },
+          "ayli": {
+            "natura": ["spirituale", "comprensione", "affinità"],
+            "evoluzione": "Da amicizia a connessione divina"
+          }
+        }
+      }
+    },
+    "tematiche": {
+      "potere": {
+        "manifestazione": ["improvvisa", "incontrollata", "salvifica"],
+        "responsabilità": ["controllo", "scelte", "conseguenze"],
+        "natura": ["divina", "ereditata", "misteriosa"]
+      },
+      "verità": {
+        "livelli": {
+          "apparente": ["menzogna Bjorn", "silenzio Alfred"],
+          "nascosta": ["origine poteri", "identità vera"],
+          "interiore": ["natura divina", "destino"]
+        }
+      },
+      "crescita": {
+        "fisica": ["addestramento", "poteri"],
+        "emotiva": ["dubbi", "sospetti", "indipendenza"],
+        "spirituale": ["connessione divina", "destino"]
+      }
+    },
+    "elementi_simbolici": {
+      "tempesta": {
+        "letterale": ["fenomeno naturale", "manifestazione potere"],
+        "metaforica": ["turbamento interiore", "cambiamento", "rivelazione"]
+      },
+      "fulmine": {
+        "significati": {
+          "divini": ["eredità", "potere", "giustizia"],
+          "personali": ["rivelazione", "protezione", "forza"]
+        }
+      },
+      "caccia": {
+        "letterale": "Eliminazione minaccia gnoll",
+        "simbolica": ["rito iniziatico", "prova", "rivelazione"]
+      }
+    },
+    "connessioni_narrative": {
+      "passato": {
+        "profezia": "Notte dei fulmini",
+        "poteri_latenti": ["resistenza", "forza"],
+        "giganti": ["Stormjak", "poteri tempesta"]
+      },
+      "futuro": {
+        "sviluppo_poteri": {
+          "addestramento": "Verkilnir come mentore",
+          "controllo": "Padronanza emotiva",
+          "scopo": "Protezione altri"
+        },
+        "relazioni": {
+          "alfred": "Confronto e rottura",
+          "ayli": "Alleanza divina",
+          "altri": "Nuove connessioni"
+        }
+      }
+    }
+  }
+}

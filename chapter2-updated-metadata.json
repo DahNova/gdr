@@ -1,0 +1,131 @@
+{
+  "capitolo2_metadata": {
+    "titolo": "L'Alba di una Leggenda",
+    "struttura_narrativa": {
+      "tipo": "Origine/Background",
+      "arco_temporale": {
+        "inizio": "Notte della tempesta di fulmini",
+        "fine": "5 anni dopo",
+        "era": "Post-draghi",
+        "significato": "Transizione da era mitica a era storica"
+      }
+    },
+    "evento_profetico": {
+      "tempesta_fulmini": {
+        "natura": "Manifestazione divina",
+        "caratteristiche": ["fulmini incrociati", "estensione continentale"],
+        "copertura": ["Terre Lontane", "Terre Orchesche"],
+        "significato": "Segno divino della nascita dei tre predestinati"
+      },
+      "tre_bambini": {
+        "primo": {
+          "ruolo": "Campione degli dei",
+          "descrizione": "Portatore dei Nove Venti",
+          "identità_suggerita": "Thorstein (confermato nei capitoli successivi)"
+        },
+        "secondo": {
+          "ruolo": "Figlio della magia",
+          "descrizione": "Nuovo stregone del continente",
+          "identità": "Non ancora rivelata"
+        },
+        "terzo": {
+          "ruolo": "Progenie soprannaturale",
+          "descrizione": "Entità di caos",
+          "connessione": "Visione di Ayli nel capitolo 7"
+        }
+      }
+    },
+    "personaggi_chiave": {
+      "thorstein": {
+        "nascita": {
+          "luogo": "Casa del Jack di Fiori",
+          "circostanze": "Durante la tempesta",
+          "segni_distintivi": {
+            "fisici": ["occhi blu vivaci"],
+            "poteri_latenti": ["forza inusuale", "resistenza elementi"]
+          }
+        },
+        "primi_anni": {
+          "ambiente": "Orfanotrofio",
+          "educazione": ["storie eroiche", "principi cavallereschi"],
+          "abilità_manifestate": ["forza straordinaria", "empatia"]
+        }
+      },
+      "cassandra": {
+        "background": {
+          "età": 18,
+          "status": "orfana",
+          "occupazione": "cameriera locanda",
+          "aspetto": {
+            "capelli": "castani lunghi e lisci",
+            "occhi": "verdi smeraldo",
+            "carnagione": "chiarissima"
+          }
+        },
+        "ruolo_narrativo": ["madre protettiva", "custode segreto padre"],
+        "significato": "Connessione con passato misterioso di Thorstein"
+      }
+    },
+    "ambientazione_derendiuth": {
+      "geografia": {
+        "posizione": "Vicino alle Montagne dei Giganti",
+        "caratteristiche": ["nido grifoni", "fortezza imperiale"]
+      },
+      "società": {
+        "struttura": {
+          "elite": "Cavalieri alati",
+          "istituzioni": {
+            "Casa_del_Jack_di_Fiori": {
+              "funzione": ["orfanotrofio", "scuola", "rifugio"],
+              "storia": "Fondata dopo era dei draghi",
+              "personale": {
+                "Sir_Roy_Moss": {
+                  "ruolo": ["direttore", "istruttore"],
+                  "background": "Ex-bandito redento",
+                  "significato": "Figura paterna sostitutiva"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "elementi_soprannaturali": {
+      "tempesta_profetica": {
+        "natura": "Divina/soprannaturale",
+        "effetti": ["fulmini incrociati", "fenomeni celesti"],
+        "significato": ["manifestazione divina", "segno del destino"]
+      },
+      "poteri_latenti": {
+        "thorstein": ["forza inusuale", "resistenza"],
+        "significato": "Indizi della vera natura"
+      }
+    },
+    "tematiche_sviluppate": {
+      "destino": {
+        "profezia": "Tre bambini predestinati",
+        "scelta_individuale": "Tensione tra fato e libero arbitrio"
+      },
+      "identità": {
+        "origini": ["misteriose", "divine"],
+        "eredità": ["materna visibile", "paterna nascosta"]
+      },
+      "potere": {
+        "natura": ["divino", "ereditato", "latente"],
+        "responsabilità": "Protezione degli altri"
+      }
+    },
+    "connessioni_future": {
+      "profezia": {
+        "thorstein": "Conferma natura divina",
+        "bambino_caos": "Visione Ayli capitolo 7",
+        "convergenza": "Incontro futuro predetto"
+      },
+      "poteri": {
+        "manifestazione": "Estate di Sangue",
+        "sviluppo": "Addestramento con Verkilnir",
+        "controllo": "Padronanza capitolo 7"
+      }
+    }
+  }
+}

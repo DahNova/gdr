@@ -1,0 +1,141 @@
+{
+  "capitolo4_metadata": {
+    "titolo": "Le Montagne dei Giganti",
+    "struttura_narrativa": {
+      "tipo": "Rivelazione/Iniziazione",
+      "arco_temporale": {
+        "momento": "Primi giorni dopo fuga da Derendiuth",
+        "durata": "Un mese circa",
+        "significato": "Periodo di formazione spirituale"
+      }
+    },
+    "società_giganti": {
+      "origine": {
+        "storia": "Primi esseri su Lesrodean",
+        "scopo": "Proteggere il creato divino",
+        "declino": ["guerre soprannaturali", "conflitto coi Nani"]
+      },
+      "tipologie": {
+        "giganti_montagne": {
+          "esempio": "Yorjin",
+          "caratteristiche": {
+            "fisiche": ["pelle grigia", "occhi luminosi"],
+            "poteri": ["connessione terra", "forza naturale"],
+            "ruolo": "Guardiani territorio"
+          }
+        },
+        "giganti_tempeste": {
+          "esempio": "Stormjak",
+          "caratteristiche": {
+            "fisiche": ["pelle azzurra", "capelli bianchi"],
+            "poteri": ["controllo fulmini", "visioni future", "tempeste"],
+            "maledizione": {
+              "causa": "Vicinanza divina",
+              "effetti": ["furia incontrollabile", "visioni"],
+              "paralleli": "Poteri di Thorstein"
+            }
+          }
+        },
+        "giganti_nuvole": {
+          "esempio": "Yggral",
+          "caratteristiche": {
+            "fisiche": ["pelle rosea", "capelli cangianti"],
+            "poteri": ["controllo mente", "volo", "guarigione"],
+            "origine": "Nata nelle nuvole"
+          }
+        }
+      }
+    },
+    "elementi_magici": {
+      "ambiente": {
+        "caverna": {
+          "caratteristiche": ["magica", "luminosa", "viva"],
+          "flora": ["funghi luminosi", "arbusti fiammeggianti"],
+          "fauna": ["cervo fantasma", "farfalle magiche"],
+          "minerali": {
+            "luminex": {
+              "natura": "Pietre luminescenti",
+              "uso": "Illuminazione naturale",
+              "origine": "Magia antica"
+            }
+          }
+        }
+      },
+      "magia_giganti": {
+        "tipi": ["elementale", "naturale", "divina"],
+        "manifestazioni": ["occhi luminosi", "controllo elementi"],
+        "connessione_divina": "Diretta con i Nove Venti"
+      }
+    },
+    "rivelazioni_chiave": {
+      "profezia_stormjak": {
+        "contenuto": {
+          "destino": "Aiutare molte persone",
+          "azioni": ["scendere dal cielo", "rivelare padre"],
+          "avvertimenti": ["sofferenze future", "prove"]
+        },
+        "significato": {
+          "immediato": "Guida per il viaggio",
+          "futuro": "Anticipazione poteri e ruolo"
+        }
+      },
+      "natura_thorstein": {
+        "indizi": {
+          "poteri_latenti": ["resistenza elementi", "affinità tempeste"],
+          "connessione_divina": ["comprensione giganti", "protezione Stormjak"]
+        },
+        "paralleli": {
+          "giganti_tempeste": ["controllo fulmini", "furia divina"],
+          "Lord_Justice": ["poteri", "destino", "responsabilità"]
+        }
+      }
+    },
+    "temi_sviluppati": {
+      "equilibrio": {
+        "divino_mortale": ["giganti come mediatori", "potere e responsabilità"],
+        "natura_civiltà": ["protezione", "convivenza"],
+        "bene_male": ["furia divina", "controllo"]
+      },
+      "eredità": {
+        "divina": ["poteri", "destino", "responsabilità"],
+        "culturale": ["conoscenza giganti", "storia antica"]
+      },
+      "protezione": {
+        "creato": ["ruolo giganti", "futuro Thorstein"],
+        "deboli": ["responsabilità del potere", "scopo divino"]
+      }
+    },
+    "elementi_simbolici": {
+      "caverna": {
+        "significati": ["utero", "iniziazione", "protezione"],
+        "ruolo": "Luogo di trasformazione"
+      },
+      "luce": {
+        "naturale": ["vita", "magia antica"],
+        "occhi": ["potere divino", "saggezza"],
+        "minerali": ["conoscenza", "guida"]
+      },
+      "tempesta": {
+        "manifestazioni": ["potere", "furia", "divinità"],
+        "connessioni": ["Thorstein", "Lord Justice", "destino"]
+      }
+    },
+    "connessioni_narrative": {
+      "passato": {
+        "profezia_nascita": "Tempesta di fulmini",
+        "poteri_latenti": "Resistenza elementi"
+      },
+      "futuro": {
+        "poteri": {
+          "manifestazione": "Estate di Sangue",
+          "sviluppo": "Addestramento Verkilnir",
+          "controllo": "Maturità spirituale"
+        },
+        "destino": {
+          "protezione": ["Rifedal", "innocenti"],
+          "confronto": ["oscurità", "caos"]
+        }
+      }
+    }
+  }
+}

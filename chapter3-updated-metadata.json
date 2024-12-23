@@ -1,0 +1,145 @@
+{
+  "capitolo3_metadata": {
+    "titolo": "Rifedal",
+    "struttura_narrativa": {
+      "forma": "Doppia narrativa",
+      "componenti": {
+        "storia_interna": {
+          "titolo": "L'ultima ribellione contro Ak'Trog'Ar",
+          "funzione": {
+            "narrativa": ["parallelo tematico", "allegoria potere"],
+            "simbolica": ["lezione morale", "anticipazione futura"]
+          },
+          "temi": {
+            "potere": ["uso", "abuso", "responsabilità"],
+            "lealtà": ["tradimento", "fedeltà"],
+            "giustizia": ["divina", "personale"]
+          },
+          "personaggi": {
+            "Ak_Trog_Ar": {
+              "natura": "Leader legittimo",
+              "caratteristiche": {
+                "fisiche": ["gigantesco", "potente"],
+                "poteri": ["immunità magia", "forza sovrumana"]
+              },
+              "paralleli": {
+                "Lord_Justice": ["autorità", "potere", "giustizia"],
+                "Thorstein_futuro": ["potere innato", "responsabilità"]
+              }
+            },
+            "orco_grigio": {
+              "ruolo": "Usurpatore",
+              "simbolismo": ["ambizione corrotta", "uso improprio potere"]
+            }
+          }
+        },
+        "storia_principale": {
+          "eventi_chiave": {
+            "malattia_madre": {
+              "causa": "Grattugia",
+              "progressione": ["infezione", "quarantena", "declino"],
+              "impatto": ["isolamento", "sofferenza", "perdita"]
+            },
+            "morte_cassandra": {
+              "circostanze": {
+                "luogo": "Casa del Jack di Fiori",
+                "testimoni": ["Thorstein", "Sir Rikel"],
+                "ultimi_momenti": ["rivelazioni", "richieste", "addio"]
+              },
+              "rivelazioni": {
+                "padre": {
+                  "indizi": ["generale Dubb", "Rifedal"],
+                  "significato": "Guida per il futuro"
+                }
+              },
+              "richieste_finali": {
+                "promesse": [
+                  "cercare il padre",
+                  "aiutare gli indifesi",
+                  "essere la forza degli altri"
+                ],
+                "significato": "Definizione missione di vita"
+              }
+            }
+          }
+        }
+      }
+    },
+    "worldbuilding": {
+      "elementi_religiosi": {
+        "Lord_Wrath": {
+          "dominio": "Ira divina",
+          "influenza": "Culture orchesche",
+          "manifestazioni": ["rituali", "cicatrici sacre"]
+        },
+        "Mokar_Dum": {
+          "natura": "Rituale di successione",
+          "significato": "Ordine sociale divino"
+        }
+      },
+      "malattia_grattugia": {
+        "natura": ["epidemica", "devastante"],
+        "effetti": ["fisici", "sociali"],
+        "risposta": {
+          "quarantena": "Isolamento città",
+          "scaccia_mali": {
+            "ruolo": ["guaritori", "esecutori"],
+            "metodi": ["cure", "eutanasia"]
+          }
+        }
+      }
+    },
+    "sviluppo_personaggio": {
+      "thorstein": {
+        "crescita": {
+          "emotiva": ["perdita", "responsabilità"],
+          "spirituale": ["prime domande", "ricerca identità"],
+          "fisica": ["preparazione viaggio", "prime prove"]
+        },
+        "equipaggiamento": {
+          "simbolico": {
+            "vanga_divisa": ["adattabilità", "ingegno"],
+            "aquila_legno": ["memoria", "guida spirituale"]
+          }
+        }
+      }
+    },
+    "temi_principali": {
+      "perdita": {
+        "personale": ["madre", "casa", "innocenza"],
+        "sociale": ["comunità", "sicurezza"]
+      },
+      "destino": {
+        "chiamata": ["viaggio", "ricerca"],
+        "responsabilità": ["promesse", "eredità"]
+      },
+      "potere": {
+        "forme": ["politico", "magico", "divino"],
+        "uso": ["giusto", "corrotto"]
+      }
+    },
+    "connessioni_narrative": {
+      "capitoli_precedenti": {
+        "profezia": "Tempesta e nascita",
+        "poteri_latenti": "Forza inusuale"
+      },
+      "capitoli_successivi": {
+        "ricerca_padre": ["Dubb", "identità divina"],
+        "promesse_madre": ["protezione altri", "forza per deboli"],
+        "sviluppo_poteri": ["controllo", "responsabilità"]
+      }
+    },
+    "elementi_simbolici": {
+      "aquila_legno": {
+        "significati": ["memoria", "protezione", "guida"],
+        "evoluzione": "Connessione futura con Verkilnir"
+      },
+      "malattia": {
+        "simbolismo": ["corruzione", "purificazione", "prova divina"]
+      },
+      "viaggio": {
+        "significato": ["iniziazione", "crescita", "destino"]
+      }
+    }
+  }
+}

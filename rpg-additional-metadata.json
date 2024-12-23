@@ -1,0 +1,148 @@
+{
+  "organizzazioni_e_ordini": {
+    "ordini_cavallereschi": {
+      "Ordine_della_Giustizia": {
+        "sede": "Aziriuth",
+        "membri": "Paladini di Lord Justice",
+        "funzioni": ["giudici", "esecutori", "protettori"],
+        "figure_note": {
+          "Leah_Blueriver": {
+            "rango": "Seconda Leggenda Imperiale",
+            "impresa": "Ricerca delle nove pietre",
+            "significato": "Connessione diretta con dei"
+          }
+        }
+      },
+      "Osservatorio_Templari": {
+        "membri": ["Cavalieri alati", "Esecutori"],
+        "requisiti": "Addestramento speciale",
+        "particolarità": "Accetta donne guerriere"
+      }
+    },
+    "gruppi_avventurieri": {
+      "Banda_Ammanettati": {
+        "membri_noti": ["Jack", "Nilah", "Roy"],
+        "imprese": "Varie avventure e salvataggi",
+        "reputazione": "Eroi popolari"
+      }
+    },
+    "ordini_medici": {
+      "Scaccia_Mali": {
+        "riconoscimento": ["uniformi nere e verdi", "maschere"],
+        "compiti": ["cura malattie", "quarantena", "eutanasia"],
+        "metodi": "Segreti e misteriosi"
+      }
+    }
+  },
+  "tradizioni_e_rituali": {
+    "orcheschi": {
+      "Mokar_Dum": {
+        "natura": "Duello per leadership",
+        "regole": "Combattimento uno contro uno",
+        "conseguenze": "Vincitore diventa capo tribù"
+      },
+      "rituali_guerra": {
+        "cicatrici_sacre": "Segni di benedizione",
+        "invocazioni": "Preghiere a Lord Wrath"
+      }
+    },
+    "giganti": {
+      "connessione_natura": {
+        "meditazione": "Ibernazione spirituale",
+        "comunione": "Con elementi naturali"
+      },
+      "rituali_protezione": {
+        "sorveglianza": "Territori sacri",
+        "difesa": "Creato divino"
+      }
+    },
+    "imperiali": {
+      "prove_divine": {
+        "natura": "Test di verità/valore",
+        "giudizio": "Diretto da paladini",
+        "conseguenze": "Assoluzione o condanna"
+      }
+    }
+  },
+  "malattie_e_afflizioni": {
+    "Grattugia": {
+      "sintomi": ["febbre", "autolesionismo", "deterioramento"],
+      "diffusione": "Epidemica",
+      "cura": "Sconosciuta/rara",
+      "impatto": ["quarantene", "morti", "disgregazione sociale"]
+    }
+  },
+  "leggende_e_titoli": {
+    "sistema_leggende": {
+      "categorie": {
+        "Prime_Leggende": {
+          "origine": "Era dei Draghi",
+          "status": "Alcuni ancora vivi"
+        },
+        "Seconde_Leggende": {
+          "origine": "Post-draghi",
+          "requisiti": "Imprese straordinarie"
+        }
+      },
+      "figure_note": {
+        "Ascal": {
+          "titoli": ["Prima Leggenda Elfica", "Principe Boscocascata"],
+          "imprese": "Duelli leggendari"
+        }
+      }
+    }
+  },
+  "artefatti_e_oggetti": {
+    "armi_leggendarie": {
+      "Armi_Roventi": {
+        "possessore": "Capo Furia orchi",
+        "natura": "Magica",
+        "poteri": "Non specificati"
+      },
+      "Alartiglio": {
+        "materiale": "Pyrite",
+        "possessore": "Lord Jonathan"
+      }
+    },
+    "minerali_magici": {
+      "Luminex": {
+        "proprietà": "Luminescenza naturale",
+        "usi": ["illuminazione", "magia elfica"],
+        "lavorazione": "Richiede incantesimi"
+      }
+    }
+  },
+  "creature_mitiche_dettagli": {
+    "semi_dei": {
+      "Lath": {
+        "origine": ["Lord Wrath", "elfa esiliata"],
+        "forma": "Ragno gigante",
+        "poteri": "Trasformazione Elfi Oscuri",
+        "influenza": "Creazione nuova razza"
+      }
+    },
+    "mostri_soprannaturali": {
+      "descrizioni": [
+        "Cani tre teste giganti",
+        "Bestie informi",
+        "Esseri dai poteri infernali"
+      ],
+      "origine": "Piano Oscuro"
+    }
+  },
+  "storia_e_ere": {
+    "Prima_Terra": {
+      "fine": "Affondata per arroganza umana",
+      "conseguenze": "Creazione Otto Terre"
+    },
+    "Era_Draghi": {
+      "fine": "Recente (70 anni)",
+      "impatto": ["cambiamenti sociali", "nuove costruzioni"]
+    },
+    "Ultima_Colonizzazione": {
+      "leader": "Imperatore Saul Drakeson II",
+      "obiettivo": "Conquista Terre Nebbiose",
+      "esito": "Fallimento"
+    }
+  }
+}
